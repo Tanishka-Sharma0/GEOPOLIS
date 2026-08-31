@@ -1,0 +1,465 @@
+[
+    {
+        "id": "nato-1949",
+        "name": "North Atlantic Treaty",
+        "organization": "NATO",
+        "type": "Defense",
+        "year": 1949,
+        "status": "Active",
+        "members": [
+            "USA",
+            "UK",
+            "France",
+            "Germany",
+            "Canada",
+            "Turkey"
+        ],
+        "summary": "A collective defense alliance designed to secure transatlantic stability and mutual military support.",
+        "timeline": [
+            {
+                "year": 1949,
+                "event": "Treaty established"
+            },
+            {
+                "year": 1999,
+                "event": "Expansion to central and eastern Europe"
+            },
+            {
+                "year": 2022,
+                "event": "Strategic posture reinforced after regional escalation"
+            }
+        ]
+    },
+    {
+        "id": "brics-2009",
+        "name": "BRICS Cooperation Platform",
+        "organization": "BRICS",
+        "type": "Strategic",
+        "year": 2009,
+        "status": "Active",
+        "members": [
+            "Brazil",
+            "Russia",
+            "India",
+            "China",
+            "South Africa"
+        ],
+        "summary": "A strategic forum for cooperation across trade, infrastructure, finance, and geopolitical coordination.",
+        "timeline": [
+            {
+                "year": 2009,
+                "event": "Formation at the first leaders summit"
+            },
+            {
+                "year": 2015,
+                "event": "Expansion into institutional financing and development cooperation"
+            },
+            {
+                "year": 2024,
+                "event": "Broader strategic and economic coordination agenda"
+            }
+        ]
+    },
+    {
+        "id": "quad-2007",
+        "name": "QUAD Strategic Dialogue",
+        "organization": "QUAD",
+        "type": "Defense",
+        "year": 2007,
+        "status": "Active",
+        "members": [
+            "India",
+            "USA",
+            "Japan",
+            "Australia"
+        ],
+        "summary": "A maritime and security coordination framework centered on Indo-Pacific stability and strategic resilience.",
+        "timeline": [
+            {
+                "year": 2007,
+                "event": "Framework dialogue initiated"
+            },
+            {
+                "year": 2008,
+                "event": "Regional strategic alignment expanded"
+            },
+            {
+                "year": 2023,
+                "event": "Military and supply chain coordination intensified"
+            }
+        ]
+    },
+    {
+        "id": "eu-1958",
+        "name": "Treaty of Rome",
+        "organization": "EU",
+        "type": "Economic",
+        "year": 1958,
+        "status": "Active",
+        "members": [
+            "France",
+            "Germany",
+            "Italy",
+            "Belgium",
+            "Netherlands",
+            "Luxembourg"
+        ],
+        "summary": "The foundation of the European economic integration process, later expanding into deeper policy coordination.",
+        "timeline": [
+            {
+                "year": 1958,
+                "event": "Common market framework signed"
+            },
+            {
+                "year": 1992,
+                "event": "Single market consolidation"
+            },
+            {
+                "year": 2024,
+                "event": "Industrial resilience and strategic autonomy agenda advanced"
+            }
+        ]
+    },
+    {
+        "id": "asean-1967",
+        "name": "ASEAN Declaration",
+        "organization": "ASEAN",
+        "type": "Strategic",
+        "year": 1967,
+        "status": "Active",
+        "members": [
+            "Indonesia",
+            "Malaysia",
+            "Thailand",
+            "Singapore",
+            "Philippines",
+            "Vietnam"
+        ],
+        "summary": "A regional platform for political coordination, economic cooperation, and diplomatic stability in Southeast Asia.",
+        "timeline": [
+            {
+                "year": 1967,
+                "event": "Regional bloc formed"
+            },
+            {
+                "year": 2015,
+                "event": "Community-building agenda accelerated"
+            },
+            {
+                "year": 2024,
+                "event": "Supply chain and security coordination strengthened"
+            }
+        ]
+    },
+    {
+        "id": "india-france-1998",
+        "name": "India-France Strategic Partnership",
+        "organization": "Bilateral",
+        "type": "Defense",
+        "year": 1998,
+        "status": "Active",
+        "members": [
+            "India",
+            "France"
+        ],
+        "summary": "A long-running strategic partnership focused on defense technology, maritime security, and industrial collaboration.",
+        "timeline": [
+            {
+                "year": 1998,
+                "event": "Strategic partnership formalized"
+            },
+            {
+                "year": 2015,
+                "event": "Defense cooperation expanded"
+            },
+            {
+                "year": 2024,
+                "event": "Joint naval and technological coordination deepened"
+            }
+        ]
+    },
+    {
+        "id": "india-russia-2001",
+        "name": "India-Russia Strategic Partnership",
+        "organization": "Bilateral",
+        "type": "Defense",
+        "year": 2001,
+        "status": "Active",
+        "members": [
+            "India",
+            "Russia"
+        ],
+        "summary": "A defense and energy relationship designed to sustain strategic autonomy and long-term bilateral coordination.",
+        "timeline": [
+            {
+                "year": 2001,
+                "event": "Strategic partnership elevated"
+            },
+            {
+                "year": 2010,
+                "event": "Cooperation expanded in energy and defense"
+            },
+            {
+                "year": 2024,
+                "event": "Strategic alignment maintained amid regional volatility"
+            }
+        ]
+    },
+    {
+        "id": "australia-uk-us-2021",
+        "name": "AUKUS Security Partnership",
+        "organization": "Bilateral",
+        "type": "Defense",
+        "year": 2021,
+        "status": "Active",
+        "members": [
+            "USA",
+            "UK",
+            "Australia"
+        ],
+        "summary": "A trilateral defense arrangement focused on advanced capabilities, regional deterrence, and Indo-Pacific security.",
+        "timeline": [
+            {
+                "year": 2021,
+                "event": "Partnership announced"
+            },
+            {
+                "year": 2023,
+                "event": "Submarine and capability programs advanced"
+            },
+            {
+                "year": 2024,
+                "event": "Regional security coordination expanded"
+            }
+        ]
+    },
+    {
+        "id": "scs-2018",
+        "name": "South China Sea Code of Conduct Draft",
+        "organization": "ASEAN",
+        "type": "Strategic",
+        "year": 2018,
+        "status": "Negotiating",
+        "members": [
+            "China",
+            "Vietnam",
+            "Philippines",
+            "Malaysia",
+            "Indonesia"
+        ],
+        "summary": "A regional maritime negotiation aimed at reducing friction and preventing escalation in contested waters.",
+        "timeline": [
+            {
+                "year": 2018,
+                "event": "Negotiation framework launched"
+            },
+            {
+                "year": 2021,
+                "event": "Maritime talks resumed"
+            },
+            {
+                "year": 2024,
+                "event": "Regional confidence-building discussion remains active"
+            }
+        ]
+    },
+    {
+        "id": "eu-uk-trade-2020",
+        "name": "EU-UK Trade and Cooperation Agreement",
+        "organization": "EU",
+        "type": "Economic",
+        "year": 2020,
+        "status": "Active",
+        "members": [
+            "EU",
+            "UK",
+            "France",
+            "Germany"
+        ],
+        "summary": "A post-Brexit trade framework designed to sustain trade, regulatory alignment, and commercial continuity.",
+        "timeline": [
+            {
+                "year": 2020,
+                "event": "Agreement signed"
+            },
+            {
+                "year": 2022,
+                "event": "Trade implementation stabilized"
+            },
+            {
+                "year": 2024,
+                "event": "Regulatory and supply chain resilience monitored"
+            }
+        ]
+    },
+    {
+        "id": "india-asean-2018",
+        "name": "India-ASEAN Connectivity Framework",
+        "organization": "ASEAN",
+        "type": "Economic",
+        "year": 2018,
+        "status": "Active",
+        "members": [
+            "India",
+            "Indonesia",
+            "Thailand",
+            "Singapore",
+            "Vietnam"
+        ],
+        "summary": "A connectivity and trade framework emphasizing infrastructure investment, logistics, and maritime linkage.",
+        "timeline": [
+            {
+                "year": 2018,
+                "event": "Framework introduced"
+            },
+            {
+                "year": 2021,
+                "event": "Logistics and port partnerships expanded"
+            },
+            {
+                "year": 2024,
+                "event": "Regional connectivity agenda continued"
+            }
+        ]
+    },
+    {
+        "id": "nordic-defense-2014",
+        "name": "Nordic Defense Cooperation",
+        "organization": "NATO",
+        "type": "Defense",
+        "year": 2014,
+        "status": "Active",
+        "members": [
+            "Sweden",
+            "Norway",
+            "Finland",
+            "Denmark"
+        ],
+        "summary": "A Nordic defense framework oriented around readiness, interoperability, and regional deterrence.",
+        "timeline": [
+            {
+                "year": 2014,
+                "event": "Defense cooperation expanded"
+            },
+            {
+                "year": 2022,
+                "event": "Regional security coordination accelerated"
+            },
+            {
+                "year": 2024,
+                "event": "Joint readiness initiatives continued"
+            }
+        ]
+    },
+    {
+        "id": "g7-1975",
+        "name": "G7 Coordination Compact",
+        "organization": "G7",
+        "type": "Strategic",
+        "year": 1975,
+        "status": "Active",
+        "members": [
+            "USA",
+            "Canada",
+            "France",
+            "Germany",
+            "Japan",
+            "UK",
+            "Italy"
+        ],
+        "summary": "A major-power coordination structure for energy security, sanctions coordination, and strategic response management.",
+        "timeline": [
+            {
+                "year": 1975,
+                "event": "Forum established"
+            },
+            {
+                "year": 2014,
+                "event": "Economic and strategic cooperation deepened"
+            },
+            {
+                "year": 2024,
+                "event": "Coordination on supply chains and security sustained"
+            }
+        ]
+    },
+    {
+        "id": "india-south-east-asia-2022",
+        "name": "India-Southeast Asia Maritime Initiative",
+        "organization": "Bilateral",
+        "type": "Strategic",
+        "year": 2022,
+        "status": "Active",
+        "members": [
+            "India",
+            "Indonesia",
+            "Vietnam",
+            "Thailand",
+            "Philippines"
+        ],
+        "summary": "A logistics and maritime initiative meant to increase connectivity and security cooperation across the Indo-Pacific.",
+        "timeline": [
+            {
+                "year": 2022,
+                "event": "Initiative launched"
+            },
+            {
+                "year": 2023,
+                "event": "Mobility and maritime resilience efforts strengthened"
+            },
+            {
+                "year": 2024,
+                "event": "Regional coordination continues"
+            }
+        ]
+    },
+    {
+        "id": "india-japan-2024",
+        "name": "India-Japan Industrial Security Partnership",
+        "organization": "Bilateral",
+        "type": "Economic",
+        "year": 2024,
+        "status": "Active",
+        "members": [
+            "India",
+            "Japan"
+        ],
+        "summary": "A bilateral industrial security framework for semiconductor, transport, and strategic manufacturing collaboration.",
+        "timeline": [
+            {
+                "year": 2024,
+                "event": "Partnership announced"
+            }
+        ]
+    },
+    {
+        "id": "p5-1971",
+        "name": "UN Security Council P5 Coordination",
+        "organization": "UN",
+        "type": "Strategic",
+        "year": 1971,
+        "status": "Active",
+        "members": [
+            "USA",
+            "China",
+            "Russia",
+            "France",
+            "UK"
+        ],
+        "summary": "A strategic coordination framework among permanent members focused on security governance and diplomatic leverage.",
+        "timeline": [
+            {
+                "year": 1971,
+                "event": "Permanent member framework consolidated"
+            },
+            {
+                "year": 2015,
+                "event": "Security coordination revisited under global volatility"
+            },
+            {
+                "year": 2024,
+                "event": "Diplomatic pressure and crisis management remained central"
+            }
+        ]
+    }
+]

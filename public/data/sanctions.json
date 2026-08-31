@@ -1,0 +1,90 @@
+[
+    {
+        "id": "us-1",
+        "issuer": "United States",
+        "target": "Russia",
+        "sector": "Energy",
+        "type": "Sanction",
+        "date": "2024-12-01",
+        "reason": "Restrictions on strategic energy and logistics capabilities",
+        "estimatedImpact": "High",
+        "status": "Active"
+    },
+    {
+        "id": "eu-1",
+        "issuer": "European Union",
+        "target": "Russia",
+        "sector": "Finance",
+        "type": "Sanction",
+        "date": "2024-11-15",
+        "reason": "Financial restrictions and trade barriers over geopolitical escalation",
+        "estimatedImpact": "High",
+        "status": "Active"
+    },
+    {
+        "id": "uk-1",
+        "issuer": "United Kingdom",
+        "target": "Russia",
+        "sector": "Technology",
+        "type": "Restriction",
+        "date": "2024-10-02",
+        "reason": "Technology export controls and strategic supply chain limits",
+        "estimatedImpact": "Moderate",
+        "status": "Active"
+    },
+    {
+        "id": "us-2",
+        "issuer": "United States",
+        "target": "China",
+        "sector": "Technology",
+        "type": "Export control",
+        "date": "2023-10-01",
+        "reason": "Semiconductor and strategic technology restrictions",
+        "estimatedImpact": "High",
+        "status": "Historical"
+    },
+    {
+        "id": "eu-2",
+        "issuer": "European Union",
+        "target": "China",
+        "sector": "Trade",
+        "type": "Trade measure",
+        "date": "2023-08-20",
+        "reason": "Trade restrictions tied to strategic supply chain concerns",
+        "estimatedImpact": "Moderate",
+        "status": "Historical"
+    },
+    {
+        "id": "us-3",
+        "issuer": "United States",
+        "target": "Iran",
+        "sector": "Energy",
+        "type": "Sanction",
+        "date": "2024-07-10",
+        "reason": "Energy, shipping and financial network limitations",
+        "estimatedImpact": "High",
+        "status": "Active"
+    },
+    {
+        "id": "eu-3",
+        "issuer": "European Union",
+        "target": "Belarus",
+        "sector": "Trade",
+        "type": "Restriction",
+        "date": "2024-03-18",
+        "reason": "Trade and logistics restrictions amid regional pressure",
+        "estimatedImpact": "Moderate",
+        "status": "Active"
+    },
+    {
+        "id": "us-4",
+        "issuer": "United States",
+        "target": "North Korea",
+        "sector": "Finance",
+        "type": "Sanction",
+        "date": "2023-01-22",
+        "reason": "Financial network and sanctions enforcement measures",
+        "estimatedImpact": "High",
+        "status": "Historical"
+    }
+]
