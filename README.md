@@ -1,6 +1,6 @@
 # 🌍 GEOPOLIS
 
-### **A Live Geopolitical Intelligence & World Simulation Platform**
+### **A Live Geopolitical Intelligence & World Simulation Platform   https://geopolis.netlify.app/**
 
 > **Track global tensions. Explore alliances. Monitor economic pressure. Simulate possible futures.**
 
